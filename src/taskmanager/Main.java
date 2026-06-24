@@ -8,7 +8,16 @@ public class Main {
         }
 
         String command = args[0];
-        System.out.println("Command '" + command + "' is not implemented yet.");
+
+        if ("add".equals(command)) {
+            if (args.length < 2) {
+                System.out.println("Error: Task title is required.");
+                return;
+            }
+            AddTaskCommand.handle(String.join(" ", java.util.Arrays.copyOfRange(args, 1, args.length)));
+        } else {
+            System.out.println("Command '" + command + "' is not implemented yet.");
+        }
     }
 
     private static void printUsage() {
