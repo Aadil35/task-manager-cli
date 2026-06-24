@@ -9,7 +9,7 @@
 | Language | Java |
 | GitHub repo | https://github.com/Aadil35/task-manager-cli |
 | Branch name | `feature/aadil-jamali__add-task` |
-| Pull Request | https://github.com/Aadil35/task-manager-cli/pull/2 |
+| Pull Request | https://github.com/Aadil35/task-manager-cli/pull/1 |
 
 ## Build and run
 

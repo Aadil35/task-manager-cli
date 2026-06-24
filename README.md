@@ -21,5 +21,5 @@ java -cp out taskmanager.Main delete 1
 
 - **Repo:** https://github.com/Aadil35/task-manager-cli
 - **Branch:** `feature/aadil-jamali__add-task`
-- **Pull Request:** https://github.com/Aadil35/task-manager-cli/pull/2
+- **Pull Request:** https://github.com/Aadil35/task-manager-cli/pull/1
 - **Student:** Aadil Jamali
